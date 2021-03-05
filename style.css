@@ -8,3 +8,13 @@ body {
 	margin: auto;
 	padding-top: 100px;
 }
+.img {
+	width: 100px;
+	height: auto;
+}
+
+.row {
+	padding-top: 30px;
+	padding-left: 30px;
+	padding-right: 30px;
+}
